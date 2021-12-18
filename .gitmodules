@@ -1,0 +1,3 @@
+[submodule "libiotcrystal-android"]
+	path = libiotcrystalandroid
+	url = git@github.com:ProprietaryFinNonAIAndAICoreEtCEtAl/libiotcrystal-android.git
